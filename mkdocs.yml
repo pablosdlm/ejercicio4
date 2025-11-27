@@ -1,0 +1,13 @@
+site_name: mkdocs Ejercicio 4
+site_url: http://pablosdlm.github.io/ejercicio4
+#En el caso de Github Pages solo se permite asociar la carpeta /docs
+site_dir: site
+docs_dir: docs
+#Implementación de un menú en MKDOCS. Incluyo ejemplo:
+nav:
+- Home: index.md
+- Minima: ejercicio1.md
+- Lagrange: ejercicio2.md
+- Ejercicio 3: ejercicio3.md
+- Otras: otros.md
+theme: material
