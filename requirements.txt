@@ -1,2 +1,3 @@
 mkdocs-material
+pip install mkdocs
 pip freeze > requirements.txt
